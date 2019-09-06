@@ -1,0 +1,35 @@
+{
+  "name": "javascript-diagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "description": "Рисование диаграм и графиков @2d в браузере",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "javascript-algebra": "latest",
+    "javascript-std-lib": "latest",
+    "javascript-canvas":  "latest"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "babel-eslint": "^10.0.2"
+  },
+  "license": "Unlicense",
+  "author": "https://github.com/xaota",
+  "homepage": "https://github.com/xaota/javascript-diagram#readme",
+  "keywords": [
+    "javascript",
+    "diagram",
+    "browser",
+    "canvas"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaota/javascript-diagram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xaota/javascript-diagram/issues"
+  }
+}
